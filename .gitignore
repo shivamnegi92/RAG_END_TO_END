@@ -1,0 +1,7 @@
+/document_store
+.pyc
+.ipynb
+.env
+/uploads
+/faiss_index
+/__pycache__
